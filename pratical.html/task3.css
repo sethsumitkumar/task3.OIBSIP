@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+    h1{
+        text-align: center;
+     text-decoration: underline;
+    margin: 150px;
+    font-style: calc();
+    position: relative;
+    left: 80px;
+    bottom: 430px;
+    right: 220px;
+    left: -20px;
+    
+    }
+body{
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+
+
+#classa{
+position: relative;
+bottom:100px ;
+left: 600px;
+}
+
+#space{
+    position: relative;
+    bottom:50px ;
+    
+}
