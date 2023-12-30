@@ -40,9 +40,7 @@ This Temperature Converter Website is a simple tool that allows users to convert
 
 
 
-## Author
 
-[Your Name]
 
 ## License
 
